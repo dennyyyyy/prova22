@@ -1,0 +1,16 @@
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\bin\Debug\CorsaTRAamici1.exe.config
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\bin\Debug\CorsaTRAamici1.exe
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\bin\Debug\CorsaTRAamici1.pdb
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.csproj.AssemblyReference.cache
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.csproj.CoreCompileInputs.cache
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.exe
+C:\Users\mose.barbieri\source\repos\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.pdb
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\bin\Debug\CorsaTRAamici1.exe.config
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\bin\Debug\CorsaTRAamici1.exe
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\bin\Debug\CorsaTRAamici1.pdb
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.csproj.AssemblyReference.cache
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.csproj.SuggestedBindingRedirects.cache
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.csproj.CoreCompileInputs.cache
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.exe
+C:\Users\den\Desktop\CorsaTRAamici1\CorsaTRAamici1\obj\Debug\CorsaTRAamici1.pdb
